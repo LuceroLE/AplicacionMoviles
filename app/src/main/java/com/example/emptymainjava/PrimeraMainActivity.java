@@ -12,7 +12,7 @@ import android.widget.Toast;
 import java.text.BreakIterator;
 
 public class PrimeraMainActivity extends AppCompatActivity {
-
+    private Button btn; 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
